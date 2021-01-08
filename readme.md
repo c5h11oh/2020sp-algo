@@ -26,4 +26,4 @@ The following section describes each homework's main topic and provides the link
 - [Homework 4](HW4/HW4.pdf): Greedy Method (handwritten: square, lexicographical order, arithmetic, pA, pB), Graph: BFS, DFS (pA)
 - [Homework 5](HW5/HW5.pdf): Graph: maximum-spanning-tree (MST) (handwritten: turnip, pA), directed-acyclic-graph (DAG) (handwritten: lexicographical order), strongly-connected-component (SCC) (handwritten), flood-fill (pB)
 - [Homework 6](HW6/HW6.pdf): Graph: shortest-path algorithms (handwritten): Bellman-Ford, Dijkstra (pB), Floyd-Warshall (pA), Prim's
-- [Homework 7](HW6/HW7.pdf): Graph: Maximum flow: Ford-Fulkerson-Method
+- [Homework 7](HW7/HW7.pdf): Graph: Maximum flow: Ford-Fulkerson-Method
